@@ -1,0 +1,4 @@
+function startGame() {
+    alert("Game started!");
+    // Здесь будет логика игры
+}
